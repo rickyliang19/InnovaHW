@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "first_name": "Dave",
+        "manager": 2,
+        "salary": 100000
+    },
+    {
+        "id": 2,
+        "first_name": "Jeff",
+        "manager": null,
+        "salary": 110000
+    },
+    {
+        "id": 3,
+        "first_name": "Andy",
+        "manager": 1,
+        "salary": 90000
+    },
+    {
+        "id": 4,
+        "first_name": "Jason",
+        "manager": 1,
+        "salary": 80000
+    },
+    {
+        "id": 5,
+        "first_name": "Dan",
+        "manager": 1,
+        "salary": 70000
+    },
+    {
+        "id": 6,
+        "first_name": "Rick",
+        "manager": 1,
+        "salary": 60000
+    },
+    {
+        "id": 9,
+        "first_name": "Suzanne",
+        "manager": 1,
+        "salary": 80000
+    },
+    {
+        "id": 10,
+        "first_name": "Ricky",
+        "manager": 5,
+        "salary": 80000
+    },
+    {
+        "id": 11,
+        "first_name": "Lily",
+        "manager": 2,
+        "salary": 80000
+    },
+    {
+        "id": 12,
+        "first_name": "TJ",
+        "manager": 2,
+        "salary": 80000
+    },
+    {
+        "id": 13,
+        "first_name": "Apple",
+        "manager": 2,
+        "salary": 80000
+    },
+    {
+        "id": 14,
+        "first_name": "Joe",
+        "manager": 10,
+        "salary": 80000
+    },
+    {
+        "id": 15,
+        "first_name": "Jess",
+        "manager": 10,
+        "salary": 80000
+    }
+
+]

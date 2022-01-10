@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "first_name": "Dave",
+        "manager": 2,
+        "salary": 100000
+    },
+    {
+        "id": 2,
+        "first_name": "Jeff",
+        "manager": null,
+        "salary": 110000
+    },
+    {
+        "id": 3,
+        "first_name": "Andy",
+        "manager": 1,
+        "salary": 90000
+    },
+    {
+        "id": 4,
+        "first_name": "Jason",
+        "manager": 1,
+        "salary": 80000
+    },
+    {
+        "id": 5,
+        "first_name": "Dan",
+        "manager": 1,
+        "salary": 70000
+    },
+    {
+        "id": 6,
+        "first_name": "Rick",
+        "manager": 1,
+        "salary": 60000
+    },
+    {
+        "id": 9,
+        "first_name": "Suzanne",
+        "manager": 1,
+        "salary": 80000
+    },
+    {
+        "id": 10,
+        "first_name": "Ricky",
+        "manager": 5,
+        "salary": 80000
+    },
+    {
+        "id": 11,
+        "first_name": "Lily",
+        "manager": 2,
+        "salary": 80000
+    },
+    {
+        "id": 12,
+        "first_name": "TJ",
+        "manager": 2,
+        "salary": 80000
+    },
+    {
+        "id": 13,
+        "first_name": "Apple",
+        "manager": 2,
+        "salary": 80000
+    },
+    {
+        "id": 14,
+        "first_name": "Joe",
+        "manager": 10,
+        "salary": 80000
+    },
+    {
+        "id": 15,
+        "first_name": "Jess",
+        "manager": 10,
+        "salary": 80000
+    },
+    {
+        "id": 16,
+        "first_name": "Cess_kid1",
+        "manager": 15,
+        "salary": 1000
+    },
+    {
+        "id": 17,
+        "first_name": "Aess_kid2",
+        "manager": 15,
+        "salary": 1000
+    },
+    {
+        "id": 18,
+        "first_name": "Bess_kid3",
+        "manager": 15,
+        "salary": 1000
+    },
+    {
+        "id": 19,
+        "first_name": "Suzanne_kid1",
+        "manager": 9,
+        "salary": 1000
+    },
+    {
+        "id": 20,
+        "first_name": "Luzanne_kid1",
+        "manager": 9,
+        "salary": 1000
+    },
+    {
+        "id": 21,
+        "first_name": "Buzanne_kid1",
+        "manager": 9,
+        "salary": 1000
+    },
+    {
+        "id": 22,
+        "first_name": "dily_kid1",
+        "manager": 11,
+        "salary": 1000
+    },
+    {
+        "id": 23,
+        "first_name": "cily_kid1",
+        "manager": 11,
+        "salary": 1000
+    },
+    {
+        "id": 24,
+        "first_name": "bily_kid1",
+        "manager": 11,
+        "salary": 1000
+    }
+]
